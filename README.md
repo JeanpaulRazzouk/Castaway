@@ -14,7 +14,6 @@ NOTE : Adjust MyVideo and MyAudio in External Media for Game Launch to work prop
 ![Images Game Git 009](https://user-images.githubusercontent.com/68122919/150959888-78bc7775-f29c-4a25-9b78-5dfbb60cdec0.jpeg)
 ![Images Game Git 010](https://user-images.githubusercontent.com/68122919/150959897-dec0e875-e2f8-4f34-a028-44615e0f8e44.jpeg)
 ![Images Game Git 011](https://user-images.githubusercontent.com/68122919/150959904-8198a4ab-2f3c-446a-a54d-d33fada2d113.jpeg)
-![Images Game Git 012](https://user-images.githubusercontent.com/68122919/150959918-1f58303c-b1df-447b-82ca-ab0c3cbd5fd1.jpeg)
 ![Images Game Git 013](https://user-images.githubusercontent.com/68122919/150959925-29b27fae-0985-48a8-a8e2-2bddfb6cc716.jpeg)
 ![Images Game Git 014](https://user-images.githubusercontent.com/68122919/150959930-43ef8e95-0f64-4bce-a693-7c7295215781.jpeg)
 ![Images Game Git 015](https://user-images.githubusercontent.com/68122919/150959954-e0201117-4b5f-4301-aed4-b0a293cd3805.jpeg)
