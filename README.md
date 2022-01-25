@@ -4,7 +4,7 @@
 What is "Castaway"?
 
 ‘Castaway’ is a brand-new survival game developed using unreal engine 4.The game is a survival mode type game which means that the utter goal of the player is to survive whatever level he is on.
-To tell a bit about the backstory of the gameplay, The Player starts the game on a plane which suddenly crashes and ends up stranded on a island in the pacific ocean.The main mission of the charachter is to survive by finding food supply, lighting a fire etc... whilst trying to find a way to get back home.
+To tell a bit about the backstory of the gameplay, The Player starts the game on a plane which suddenly crashes and ends up stranded on a island in the pacific ocean.The main mission of the character is to survive by finding food supplies, lighting a fire etc... whilst trying to find a way to get back home.
 
 ### Before Starting the Game
 * Adjust MyVideo and MyAudio (External Media) URI's in the Blueprint Folder for the Game Launch to work properly.
