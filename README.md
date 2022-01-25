@@ -1,10 +1,16 @@
 # Castaway
-## Game Dev Project using UE 4.26
-### Before Starting Gameplay
-1-Adjust MyVideo and MyAudio in External Media for Game Launch to work properly.
-2- Add assets from blueprint folder in Drive()
+## Game project developed using UE 4.26
+
+What is "Castaway"?
+
+‘Castaway’ is a brand-new survival game developed using unreal engine 4.The game is a survival mode type game which means that the utter goal of the player is to survive whatever level he is on.
+To tell a bit about the backstory of the gameplay, The Player starts the game on a plane which suddenly crashes and ends up stranded on a island in the pacific ocean.The main mission of the charachter is to survive by finding food supply, lighting a fire etc... whilst trying to find a way to get back home.
+
+### Before Starting the Game
+* Adjust MyVideo and MyAudio (External Media) URI's in the Blueprint Folder for the Game Launch to work properly.
+* Add assets from blueprint folder in Drive(https://drive.google.com/drive/folders/1Kc5AOMysoCCzpl7CYa8P1fm6QhoB6hcG?usp=sharing)
 to blueprints folder in third person.
-3- Add assets from surfaces folder in Drive() to MegaScan folder.
+* Add assets from surfaces folder in Drive(https://drive.google.com/drive/folders/1Fb89TD8SdY2WBwfoHjCJo-e12oLgJOIy?usp=sharing) to MegaScan folder.
 
 Enjoy! :)
 
