@@ -1,6 +1,12 @@
 # Castaway
 ## Game Dev Project using UE 4.26
-NOTE : Adjust MyVideo and MyAudio in External Media for Game Launch to work properly.
+### Before Starting Gameplay
+1-Adjust MyVideo and MyAudio in External Media for Game Launch to work properly.
+2- Add assets from blueprint folder in Drive()
+to blueprints folder in third person.
+3- Add assets from surfaces folder in Drive() to MegaScan folder.
+
+Enjoy! :)
 
 # Presentation
 ![Images Game Git 001](https://user-images.githubusercontent.com/68122919/150959808-417cd857-fab4-4263-8866-3c1555c5fb05.jpeg)
